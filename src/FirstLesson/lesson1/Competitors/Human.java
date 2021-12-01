@@ -1,6 +1,6 @@
-package lesson1.Competitors;
+package FirstLesson.lesson1.Competitors;
 
-public class Human implements Competitor{
+public class Human implements Competitor {
     String name;
     int maxRunDistance;
     int maxJumpHeight;

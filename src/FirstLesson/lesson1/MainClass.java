@@ -1,7 +1,7 @@
-package lesson1;
+package FirstLesson.lesson1;
 
-import lesson1.Competitors.*;
-import lesson1.obstacles.*;
+import FirstLesson.lesson1.Competitors.*;
+import FirstLesson.lesson1.obstacles.*;
 
 public class MainClass {
     public static void main(String[] args) {

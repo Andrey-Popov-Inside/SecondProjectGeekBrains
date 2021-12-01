@@ -1,6 +1,6 @@
-package lesson1.Competitors;
+package FirstLesson.lesson1.Competitors;
 
-public abstract class Animal implements Competitor{
+public abstract class Animal implements Competitor {
     String type;
     String name;
     int maxRunDistance;
