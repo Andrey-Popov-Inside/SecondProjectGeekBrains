@@ -1,7 +1,7 @@
-package lesson1.obstacles;
+package FirstLesson.lesson1.obstacles;
 
-import lesson1.Competitors.Competitor;
-import lesson1.Competitors.Team;
+import FirstLesson.lesson1.Competitors.Competitor;
+import FirstLesson.lesson1.Competitors.Team;
 
 public class Course {
 

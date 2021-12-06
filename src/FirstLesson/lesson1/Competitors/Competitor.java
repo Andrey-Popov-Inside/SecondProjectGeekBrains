@@ -1,4 +1,4 @@
-package lesson1.Competitors;
+package FirstLesson.lesson1.Competitors;
 
 public interface Competitor {
     void run(int distance);
