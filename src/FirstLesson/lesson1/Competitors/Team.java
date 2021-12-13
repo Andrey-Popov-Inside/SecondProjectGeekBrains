@@ -1,4 +1,4 @@
-package lesson1.Competitors;
+package FirstLesson.lesson1.Competitors;
 
 public class Team {
     String teamName;

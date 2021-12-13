@@ -1,6 +1,6 @@
-package lesson1.obstacles;
+package FirstLesson.lesson1.obstacles;
 
-import lesson1.Competitors.Competitor;
+import FirstLesson.lesson1.Competitors.Competitor;
 
 public class Water extends Obstacle {
     private int distance;
